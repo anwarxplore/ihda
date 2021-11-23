@@ -1,0 +1,119 @@
+.ps{
+    height: 70px;
+}
+.ps3{
+    height: 100px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.ps2{
+    height: 50px;
+}
+
+body{
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+.halo{
+    animation-delay: 0.3s;
+}
+
+.kenal{
+    animation-delay: 0.6s;
+}
+
+.selamat{
+    animation-delay: 0.9s;
+}
+
+.next{
+    animation-delay: 1.2s;
+}
+
+.navbar{
+    background: #ffffff;
+    border-bottom: 1px solid #eee;
+}
+
+.navbar-brand{
+    font-size: 1.8rem;
+}
+
+.nav-item{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.home{
+    padding-top: 3px;
+}
+
+.text_about{
+    padding-top: 70px;
+}
+
+.about{
+    padding-top: 120px;
+}
+
+.picabout{
+    width: 350px;
+}
+
+.riwayat{
+    padding-top: 30px;
+}
+
+section{
+    min-height: 100%
+}
+
+.skill{
+    padding-top: 50px;
+    padding-bottom: 61px;
+    background: #45f7c1;
+}
+
+.portofolio{
+    padding-top: 35px;
+}
+
+.sosialmedia{
+    background: #45f7c1;
+}
+
+.heading-line{
+    height: 3px;
+    width: 10%;
+    background: #21c291;
+}
+
+h1,
+h2,
+h3{
+    font-weight: 900;
+}
+
+h4,
+h5,
+h6{
+    font-weight: 700;
+}
+
+.btn-outline-secondary:hover{
+    background-color: #21c291;
+}
+
+.footer{
+    padding: 1px;
+    background-color: rgb(5, 21, 31);
+    color: white;
+}
+
+.text-footer{
+    padding-top: 17px;
+}
+
